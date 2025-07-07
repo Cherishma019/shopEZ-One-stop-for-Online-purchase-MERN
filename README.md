@@ -1,0 +1,1 @@
+# ShopEZ - MERN eCommerce App
